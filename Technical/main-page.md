@@ -24,8 +24,6 @@ This section describes the components implemented in the kernel. It clarifies th
   `SmartContractRegistration` and registered into `AccountZero`. `Smartcontract` objects should be cached in memory. 
   `SmartContractZero` provides entries for `Smartcontract` using `SmartContractRegistration`.
 
-### **World State**
-
 ### **Merkle Tree** 
 
 ### **Provider**
